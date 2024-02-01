@@ -1,0 +1,53 @@
+.edm{
+  color:#fff;
+  font-size:32px;
+  font-family: Arial;
+}
+.edm a{
+  color:#fff;
+}
+.divider{
+  padding:10px 3%;
+}
+.bg-color{
+  background-color: #1A1A1A;
+}
+.edmsection{
+  padding:35px 7%;
+}
+.column-border{
+  border-right: 3.5px solid #0CCD02;
+}
+.location{
+  color:#0CCD02;
+  font-size: 44px;
+  font-weight:600;
+  margin-bottom:0;
+  margin-top:20px;
+}
+.register-button{
+  color:#fff;
+  background-color: #3F02FF;
+  border:none;
+  border-radius: 7px;
+  padding:18px 0;
+  font-size: 36px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.edm .contact{
+  padding:80px 7%;
+}
+.edm .contact h2{
+  font-size:50px;
+  font-weight: 600;
+  margin-bottom: 50px;
+}
+.edm .contact p{
+  line-height: 1.2;
+}
+@media(max-width:1200px){
+  .edm .col-6{
+    width:100%;
+  }
+}
